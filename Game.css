@@ -36,9 +36,32 @@
 }
 
 #submit {
+    background: #EEEEEE;
+    background-image: -webkit-linear-gradient(top, #EEEEEE, #E0E0E0);
+    background-image: -moz-linear-gradient(top, #EEEEEE, #E0E0E0);
+    background-image: -ms-linear-gradient(top, #EEEEEE, #E0E0E0);
+    background-image: -o-linear-gradient(top, #EEEEEE, #E0E0E0);
+    background-image: linear-gradient(to bottom, #EEEEEE, #E0E0E0);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #000000;
     font-size: 28px;
+    padding: 3px 6px 3px 6px;
+    text-decoration: none;
     bottom: 0;
     position: absolute;
     margin: 2%;
-    left: 55%;
+    left: 56%;
+}
+
+#submit:hover {
+    background: #BDBDBD;
+    background-image: -webkit-linear-gradient(top, #BDBDBD, #9E9E9E);
+    background-image: -moz-linear-gradient(top, #BDBDBD, #9E9E9E);
+    background-image: -ms-linear-gradient(top, #BDBDBD, #9E9E9E);
+    background-image: -o-linear-gradient(top, #BDBDBD, #9E9E9E);
+    background-image: linear-gradient(to bottom, #BDBDBD, #9E9E9E);
+    text-decoration: none;
 }
