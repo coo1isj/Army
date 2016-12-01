@@ -7,9 +7,10 @@
 </head>
 
 <body>
-    <form>
-        <textarea name="text" data-limit-rows="true" rows="5" cols="60" maxlength="300" id="text"> </textarea>
-        <input type="submit" id="submit" value="Action">
+    <form action="Test.php" method="get">
+        <textarea name="test" data-limit-rows="true" rows="5" cols="60" maxlength="300" id="text"> </textarea>
+        <input type="text" name="test">
+        <input type="submit" id="submit">
     </form>
     <div id="items">
         <p id="backpack"> Backpack </p>
