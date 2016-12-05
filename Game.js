@@ -1,4 +1,4 @@
-$(document).ready(function () {
+/*$(document).ready(function () {
     $('textarea[data-limit-rows=true]').on('keypress', function (event) {
         var textarea = $(this),
             numberOfLines = (textarea.val().match(/\n/g) || []).length + 1,
@@ -9,3 +9,4 @@ $(document).ready(function () {
         }
     });
 });
+*/
