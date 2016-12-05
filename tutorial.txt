@@ -1,1 +1,24 @@
-{\rtf1}
+Character:
+	Rank: Private 
+	Name: Gary L. Brinker
+	Residence: Indianapolis, IN
+	Birth Date: March 11, 1993 (23)
+	Height: 5'9" (174 cm)
+	Weight: 175 pounds (79kg)
+
+Backpack:
+	Weapons: 
+		M4 Rifle
+		M9 Handgun
+		M84 Stun grenade
+	Equipment:
+		Radio
+	Clothing:
+		US Army (Black)
+Mission:
+You are alone and have the hard task of infiltrating a small camp occupied by known enemies. No allies are available on hand, just your sergeant(Case)
+on your radio. Your task, target the leader and eliminate him and make it out alive, or eliminate all threats.
+
+1.
+
+ 
